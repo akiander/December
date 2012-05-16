@@ -1,0 +1,10 @@
+C:\Projects\December\DecemberData.Tests\bin\Debug\DecemberData.Tests.dll.config
+C:\Projects\December\DecemberData.Tests\bin\Debug\DecemberData.Tests.dll
+C:\Projects\December\DecemberData.Tests\bin\Debug\DecemberData.Tests.pdb
+C:\Projects\December\DecemberData.Tests\bin\Debug\DecemberData.dll
+C:\Projects\December\DecemberData.Tests\bin\Debug\DecemberData.pdb
+C:\Projects\December\DecemberData.Tests\bin\Debug\DecemberData_Accessor.dll
+C:\Projects\December\DecemberData.Tests\bin\Debug\DecemberData_Accessor.pdb
+C:\Projects\December\DecemberData.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\December\DecemberData.Tests\obj\Debug\DecemberData.Tests.dll
+C:\Projects\December\DecemberData.Tests\obj\Debug\DecemberData.Tests.pdb

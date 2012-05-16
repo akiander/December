@@ -1,0 +1,11 @@
+C:\Projects\December\DecemberWeb\bin\DecemberWeb.dll
+C:\Projects\December\DecemberWeb\bin\DecemberWeb.pdb
+C:\Projects\December\DecemberWeb\bin\AjaxControlToolkit.dll
+C:\Projects\December\DecemberWeb\bin\DecemberAccessProvider.dll
+C:\Projects\December\DecemberWeb\bin\DecemberData.dll
+C:\Projects\December\DecemberWeb\bin\AjaxControlToolkit.pdb
+C:\Projects\December\DecemberWeb\bin\DecemberData.pdb
+C:\Projects\December\DecemberWeb\bin\DecemberAccessProvider.pdb
+C:\Projects\December\DecemberWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\December\DecemberWeb\obj\Debug\DecemberWeb.dll
+C:\Projects\December\DecemberWeb\obj\Debug\DecemberWeb.pdb

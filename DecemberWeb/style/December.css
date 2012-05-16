@@ -1,0 +1,181 @@
+﻿body
+{
+	font-family:Georgia;
+	font-size:1.3em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:normal;
+}
+
+/* This formats the text in the RandomQuoteViewer control - which shows a quote every 10 seconds on the default page */
+.singleQuoteView
+{
+	font-family:Georgia;
+	font-size:1.5em;
+}
+
+
+.quoteList
+{
+	font-family:Georgia;
+	font-size:1.5em;
+}
+
+.quoteListTable
+{
+    background-color: #339933; /* #40669A; */ 
+    border-collapse: collapse;
+    vertical-align:middle;
+    text-align:center;
+}
+
+.quoteListTableHeading
+{
+	color: #000000;
+}
+
+/* This makes an ordinary control look like a hyperlink */
+.linkStyle
+{
+	color:Blue;
+	text-decoration:underline;
+}
+
+
+input.text, textarea.text
+{
+	-moz-box-sizing:border-box;
+	background:#FFFFFF url(/images/input_bg.gif) repeat-x scroll center top;
+	border:1px solid #CCCCCC;
+	font-family:Georgia;
+	font-size:1.5em;
+	
+	width:450px;
+}
+
+.button
+{
+	font-family:Georgia;
+	font-size:1.5em;
+	width:250px;
+}
+
+.navbutton
+{
+	font-family: Georgia;
+	font-size: 1.5em;
+	/*padding: 0.2em;*/
+}
+
+
+/* Textbox Watermark */
+
+.watermarked {
+	background-color:#F0F8FF;
+	color:gray;
+	border:1px solid #CCCCCC;
+	font-family:Georgia;
+	font-size:1.2em;
+}	
+
+/* Content blocks when on the left side */
+.blockLeft
+{
+	background-color: #339933; /* #40669A; */ 
+	border-right: solid 3px #FFFFFF;
+	border-top: solid 3px #FFFFFF;
+	padding: 6px;
+	/* vertical-align:middle; */
+    text-align:center;
+}
+/* Content blocks when in the middle of a blockLeft and blockRight */
+.blockMiddle
+{
+	background-color: #339933; /* #40669A; */ 
+	border-right: solid 3px #FFFFFF;
+	border-top: solid 3px #FFFFFF;
+	padding: 6px;
+	/* vertical-align:middle; */
+    text-align:center;
+}
+/* Content blocks when on the right side */
+.blockRight
+{
+	background-color: #339933; /* #40669A; */ 
+	border-top: solid 3px #FFFFFF;
+	padding: 6px;
+    /* vertical-align:middle; */
+    text-align:center;
+}
+/* Content blocks when they span across the entire page */
+.blockFullLength
+{
+	background-color: #339933; /* #40669A; */ 
+	border-top: solid 3px #FFFFFF;
+	padding: 6px;
+	vertical-align:middle;
+    text-align:center;
+}
+
+
+.GrayBackground
+{ 
+	background-color:#DCDCDC;
+}
+
+/* Used for the background when editing a quote in the quoteList */
+.YellowBackground
+{
+	background-color:#FFF8DC;
+}
+
+.primaryBackgroundColor
+{
+	background-color: #339933; /* #40669A; */ 
+}
+
+/* Used for the title at the top of each page */
+.pageTitle 
+{
+	background-color:Gray;
+	color:White;
+	border-right: solid 3px #FFFFFF;
+	border-top: solid 3px #FFFFFF;
+	padding: 6px;
+	/* vertical-align:middle; */
+    text-align:center;
+}
+
+/* Menu Styles */
+.menu {
+	font-family:Georgia;
+	font-size:1.5em;
+	font-weight: bold; 
+	background-color:#DCDCDC;
+	color: Blue;
+}
+
+.menuHover 
+{
+	background-color: Red;
+}
+
+
+
+
+/*Modal Popup*/
+.modalBackground {
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+
+.modalPopup {
+	background-color:#ffffdd;
+	border-width:3px;
+	border-style:solid;
+	border-color:Gray;
+	padding:3px;
+	width:500px;
+}

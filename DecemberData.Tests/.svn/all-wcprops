@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/kiandercom/!svn/ver/24/december/trunk/DecemberData.Tests
+END
+DecemberData.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/kiandercom/!svn/ver/20/december/trunk/DecemberData.Tests/DecemberData.Tests.csproj
+END
+AuthoringTests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/kiandercom/!svn/ver/20/december/trunk/DecemberData.Tests/AuthoringTests.txt
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/kiandercom/!svn/ver/20/december/trunk/DecemberData.Tests/App.config
+END
+QuoteListTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/kiandercom/!svn/ver/20/december/trunk/DecemberData.Tests/QuoteListTest.cs
+END

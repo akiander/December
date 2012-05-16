@@ -1,0 +1,41 @@
+8
+
+dir
+23
+http://akiander.homeip.net:88/svn/kiandercom/december/trunk/DecemberAccessProvider/DecWebTestSite/App_Data
+http://akiander.homeip.net:88/svn/kiandercom
+
+
+
+2008-01-15T18:16:26.288512Z
+20
+aaron
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+da7fc2c3-4f05-554f-a018-5fabd651f7bf
+
+DecWebTest.mdb
+file
+
+
+
+
+2008-01-15T18:30:22.216484Z
+f76611883c9a6a38b7ec07c66eb44d74
+2008-01-15T18:16:26.288512Z
+20
+aaron
+has-props
+
