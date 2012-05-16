@@ -1,0 +1,100 @@
+8
+
+dir
+23
+http://akiander.homeip.net:88/svn/kiandercom/december/trunk
+http://akiander.homeip.net:88/svn/kiandercom
+
+
+
+2008-01-15T18:44:22.346276Z
+23
+aaron
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+da7fc2c3-4f05-554f-a018-5fabd651f7bf
+
+DecemberData
+dir
+
+DecemberData.Tests
+dir
+
+December.sln
+file
+30
+
+
+
+2008-02-01T01:31:44.953125Z
+02722c7e43bdcc8788834875e5bf8e77
+2008-02-04T03:16:00.350764Z
+30
+aaron
+
+DecemberAccessProvider
+dir
+
+DecemberWeb
+dir
+
+December.vsmdi
+file
+
+
+
+
+2008-01-15T18:32:54.657886Z
+52173adfe084155439f1f849a75de033
+2008-01-15T18:16:26.288512Z
+20
+aaron
+
+LocalTestRun.testrunconfig
+file
+
+
+
+
+2008-01-15T18:32:55.204775Z
+8fddc76088fab05a5189c66e3d171a0f
+2008-01-15T18:16:26.288512Z
+20
+aaron
+
+December.suo
+file
+25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
