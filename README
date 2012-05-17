@@ -1,1 +1,3 @@
 This is an ASP.NET webforms project which is a quote manager - comes with a list of quotes included and a database (access file) to manage users. 
+
+Note: First commit requires Visual Studio 2008 but this will be moved to VS2010. 
