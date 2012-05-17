@@ -13,7 +13,7 @@
             </tr>
         </table>
    </div>
-    <asp:CreateUserWizard ID="CreateUserWizard1" runat="server" ContinueDestinationPageUrl="~/Secure/Default.aspx"
+    <asp:CreateUserWizard ID="CreateUserWizard1" runat="server" ContinueDestinationPageUrl="Secure/Default.aspx"
         NavigationButtonStyle-CssClass="button">
         <NavigationButtonStyle CssClass="button" />
         <WizardSteps>

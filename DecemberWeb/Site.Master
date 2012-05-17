@@ -7,7 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
     <title>December Project</title>
-    <link href="/Dec/style/December.css" rel="stylesheet" type="text/css" />
+    <link href="style/December.css" rel="stylesheet" type="text/css" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -29,10 +29,10 @@
                                 StaticDisplayLevels="1">
                               <Items>
                                 <asp:MenuItem Text="The December Project" Selectable="false" >
-                                  <asp:MenuItem Text="Home" NavigateUrl="/Dec/Default.aspx"></asp:MenuItem>
-                                  <asp:MenuItem Text="Login" NavigateUrl="/Dec/Login.aspx"></asp:MenuItem>
-                                  <asp:MenuItem Text="Register" NavigateUrl="/Dec/Register.aspx"></asp:MenuItem>
-                                  <asp:MenuItem Text="Contact" NavigateUrl="/Dec/Contact.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="Home" NavigateUrl="Default.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="Login" NavigateUrl="Login.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="Register" NavigateUrl="Register.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="Contact" NavigateUrl="Contact.aspx"></asp:MenuItem>
                                 </asp:MenuItem>                        
                               </Items>
                             </asp:Menu>
@@ -46,9 +46,9 @@
                                 StaticDisplayLevels="1">
                               <Items>
                                 <asp:MenuItem Text="The December Project" Selectable="false">
-                                  <asp:MenuItem Text="My Control Panel" NavigateUrl="/Dec/Secure/Default.aspx"></asp:MenuItem>
-                                  <asp:MenuItem Text="My Quotes" NavigateUrl="/Dec/Secure/QuoteList.aspx"></asp:MenuItem>
-                                  <asp:MenuItem Text="My Categories" NavigateUrl="/Dec/Secure/Categories.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="My Control Panel" NavigateUrl="Secure/Default.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="My Quotes" NavigateUrl="Secure/QuoteList.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="My Categories" NavigateUrl="Secure/Categories.aspx"></asp:MenuItem>
                                 </asp:MenuItem>                        
                               </Items>
                             </asp:Menu>
@@ -97,18 +97,18 @@
         <div style="color:Gray">
             <asp:LoginView id="LoginView2" runat="server">
                 <AnonymousTemplate>
-                    <a href="/Dec/Login.aspx">Login</a> 
-                    | <a href="/Dec/Register.aspx">Register</a>                
+                    <a href="Login.aspx">Login</a> 
+                    | <a href="Register.aspx">Register</a>                
                 </AnonymousTemplate>
                 <LoggedInTemplate>
-                    <a href="/Dec/Secure/Default.aspx">My Control Panel</a>
-                    | <a href="/Dec/Secure/QuoteList.aspx">My Quotes</a> 
-                    | <a href="/Dec/Secure/Categories.aspx">My Categories</a> 
+                    <a href="Secure/Default.aspx">My Control Panel</a>
+                    | <a href="Secure/QuoteList.aspx">My Quotes</a> 
+                    | <a href="Secure/Categories.aspx">My Categories</a> 
                     | <uc1:QuoteAddControl ID="QuoteAddControl1" runat="server" />
                 </LoggedInTemplate>
             </asp:LoginView>
-            | <a href="/Dec/Default.aspx">Site Home</a> 
-            | <a href="/Dec/Contact.aspx">Contact</a>
+            | <a href="Default.aspx">Site Home</a> 
+            | <a href="Contact.aspx">Contact</a>
             
             <br />
             <br />

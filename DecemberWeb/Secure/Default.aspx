@@ -25,11 +25,11 @@ Title="December My Quotes Page" %>
             margin: 0px;">
             <tr>
                 <td style="height: 100px;cursor:pointer;" class="blockLeft" 
-                    onclick="javascript:document.location = '/dec/secure/quotelist.aspx';">
+                    onclick="javascript:document.location = 'quotelist.aspx';">
                     <input type="button" class="button" value="My Quotes" />
                 </td>
                 <td style="height: 100px;cursor:pointer;" class="blockRight" 
-                    onclick="javascript:document.location = '/dec/secure/categories.aspx';">
+                    onclick="javascript:document.location = 'categories.aspx';">
                     <input type="button" class="button" value="My Categories" />
                 </td>
             </tr>

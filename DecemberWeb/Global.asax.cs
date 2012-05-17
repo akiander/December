@@ -83,7 +83,7 @@ namespace DecemberWeb
 
 
             //Append all errors into a file
-            using (StreamWriter sw = File.AppendText(Server.MapPath("/Dec/Data/errors.txt")))
+            using (StreamWriter sw = File.AppendText(Server.MapPath("Data/errors.txt")))
             {
 
                 sw.WriteLine();

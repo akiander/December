@@ -1,6 +1,6 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Login.ascx.cs" Inherits="DecemberWeb.Controls.Login" %>
 
- <asp:Login ID="myLogin" runat="server" DestinationPageUrl="~/Secure/Default.aspx" >
+ <asp:Login ID="myLogin" runat="server" DestinationPageUrl="Secure/Default.aspx" >
         <LayoutTemplate>
             <table border="0" cellpadding="1" cellspacing="0" 
                 style="border-collapse:collapse;">

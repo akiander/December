@@ -1,5 +1,0 @@
-C:\Projects\December\DecemberData\bin\Debug\DecemberData.dll
-C:\Projects\December\DecemberData\bin\Debug\DecemberData.pdb
-C:\Projects\December\DecemberData\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\December\DecemberData\obj\Debug\DecemberData.dll
-C:\Projects\December\DecemberData\obj\Debug\DecemberData.pdb
