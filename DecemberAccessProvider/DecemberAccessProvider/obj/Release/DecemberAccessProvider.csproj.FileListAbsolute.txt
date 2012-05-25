@@ -1,0 +1,6 @@
+C:\Users\AaronAndJulie\.ssh\December\DecemberAccessProvider\DecemberAccessProvider\bin\Release\ASPNetDB.mdb
+C:\Users\AaronAndJulie\.ssh\December\DecemberAccessProvider\DecemberAccessProvider\bin\Release\DecemberAccessProvider.dll
+C:\Users\AaronAndJulie\.ssh\December\DecemberAccessProvider\DecemberAccessProvider\bin\Release\DecemberAccessProvider.pdb
+C:\Users\AaronAndJulie\.ssh\December\DecemberAccessProvider\DecemberAccessProvider\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AaronAndJulie\.ssh\December\DecemberAccessProvider\DecemberAccessProvider\obj\Release\DecemberAccessProvider.dll
+C:\Users\AaronAndJulie\.ssh\December\DecemberAccessProvider\DecemberAccessProvider\obj\Release\DecemberAccessProvider.pdb

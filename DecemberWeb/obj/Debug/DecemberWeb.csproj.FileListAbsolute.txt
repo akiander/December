@@ -20,3 +20,14 @@ C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\bin\DecemberAccessP
 C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\obj\Debug\DecemberWeb.dll
 C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\obj\Debug\DecemberWeb.pdb
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\bin\DecemberWeb.dll
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\bin\DecemberWeb.pdb
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\bin\AjaxControlToolkit.dll
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\bin\DecemberAccessProvider.dll
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\bin\DecemberData.dll
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\bin\DecemberData.pdb
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\bin\AjaxControlToolkit.pdb
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\bin\DecemberAccessProvider.pdb
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\obj\Debug\DecemberWeb.dll
+C:\Users\AaronAndJulie\.ssh\December\DecemberWeb\obj\Debug\DecemberWeb.pdb

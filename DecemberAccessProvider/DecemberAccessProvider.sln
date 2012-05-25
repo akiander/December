@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecemberAccessProvider", "DecemberAccessProvider\DecemberAccessProvider.csproj", "{16E0DDA5-1895-43C0-AAF3-EA57C1D3BF48}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecWebTestSite", "DecWebTestSite\DecWebTestSite.csproj", "{A99125CD-C465-4FF8-B63D-961EBF20D3A5}"
