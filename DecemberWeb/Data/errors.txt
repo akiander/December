@@ -1,0 +1,227 @@
+
+
+5/25/2012 2:13:18 PM : System.Web.HttpException (0x80004005): File does not exist.
+   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+General Information 
+*********************************************
+Additional Info:
+Key: ALL_HTTP:   Value: HTTP_CONNECTION:Keep-Alive
+HTTP_ACCEPT:*/*
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_HOST:localhost:4644
+HTTP_USER_AGENT:Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+Key: ALL_RAW:   Value: Connection: Keep-Alive
+Accept: */*
+Accept-Encoding: gzip, deflate
+Host: localhost:4644
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+Key: APPL_MD_PATH:   Value: 
+Key: APPL_PHYSICAL_PATH:   Value: C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\
+Key: AUTH_TYPE:   Value: 
+Key: AUTH_USER:   Value: 
+Key: AUTH_PASSWORD:   Value: 
+Key: LOGON_USER:   Value: AJMachine\AaronAndJulie
+Key: REMOTE_USER:   Value: 
+Key: CERT_COOKIE:   Value: 
+Key: CERT_FLAGS:   Value: 
+Key: CERT_ISSUER:   Value: 
+Key: CERT_KEYSIZE:   Value: 
+Key: CERT_SECRETKEYSIZE:   Value: 
+Key: CERT_SERIALNUMBER:   Value: 
+Key: CERT_SERVER_ISSUER:   Value: 
+Key: CERT_SERVER_SUBJECT:   Value: 
+Key: CERT_SUBJECT:   Value: 
+Key: CONTENT_LENGTH:   Value: 0
+Key: CONTENT_TYPE:   Value: 
+Key: GATEWAY_INTERFACE:   Value: 
+Key: HTTPS:   Value: 
+Key: HTTPS_KEYSIZE:   Value: 
+Key: HTTPS_SECRETKEYSIZE:   Value: 
+Key: HTTPS_SERVER_ISSUER:   Value: 
+Key: HTTPS_SERVER_SUBJECT:   Value: 
+Key: INSTANCE_ID:   Value: 
+Key: INSTANCE_META_PATH:   Value: 
+Key: LOCAL_ADDR:   Value: ::1
+Key: PATH_INFO:   Value: /favicon.ico
+Key: PATH_TRANSLATED:   Value: C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\favicon.ico
+Key: QUERY_STRING:   Value: 
+Key: REMOTE_ADDR:   Value: ::1
+Key: REMOTE_HOST:   Value: ::1
+Key: REMOTE_PORT:   Value: 
+Key: REQUEST_METHOD:   Value: GET
+Key: SCRIPT_NAME:   Value: /favicon.ico
+Key: SERVER_NAME:   Value: localhost
+Key: SERVER_PORT:   Value: 4644
+Key: SERVER_PORT_SECURE:   Value: 0
+Key: SERVER_PROTOCOL:   Value: HTTP/1.1
+Key: SERVER_SOFTWARE:   Value: 
+Key: URL:   Value: /favicon.ico
+Key: HTTP_CONNECTION:   Value: Keep-Alive
+Key: HTTP_ACCEPT:   Value: */*
+Key: HTTP_ACCEPT_ENCODING:   Value: gzip, deflate
+Key: HTTP_HOST:   Value: localhost:4644
+Key: HTTP_USER_AGENT:   Value: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+
+5/25/2012 2:32:21 PM : System.Web.HttpException (0x80004005): File does not exist.
+   at System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+General Information 
+*********************************************
+Additional Info:
+Key: ALL_HTTP:   Value: HTTP_CONNECTION:Keep-Alive
+HTTP_ACCEPT:*/*
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_HOST:localhost:4644
+HTTP_USER_AGENT:Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+Key: ALL_RAW:   Value: Connection: Keep-Alive
+Accept: */*
+Accept-Encoding: gzip, deflate
+Host: localhost:4644
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+Key: APPL_MD_PATH:   Value: 
+Key: APPL_PHYSICAL_PATH:   Value: C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\
+Key: AUTH_TYPE:   Value: 
+Key: AUTH_USER:   Value: 
+Key: AUTH_PASSWORD:   Value: 
+Key: LOGON_USER:   Value: AJMachine\AaronAndJulie
+Key: REMOTE_USER:   Value: 
+Key: CERT_COOKIE:   Value: 
+Key: CERT_FLAGS:   Value: 
+Key: CERT_ISSUER:   Value: 
+Key: CERT_KEYSIZE:   Value: 
+Key: CERT_SECRETKEYSIZE:   Value: 
+Key: CERT_SERIALNUMBER:   Value: 
+Key: CERT_SERVER_ISSUER:   Value: 
+Key: CERT_SERVER_SUBJECT:   Value: 
+Key: CERT_SUBJECT:   Value: 
+Key: CONTENT_LENGTH:   Value: 0
+Key: CONTENT_TYPE:   Value: 
+Key: GATEWAY_INTERFACE:   Value: 
+Key: HTTPS:   Value: 
+Key: HTTPS_KEYSIZE:   Value: 
+Key: HTTPS_SECRETKEYSIZE:   Value: 
+Key: HTTPS_SERVER_ISSUER:   Value: 
+Key: HTTPS_SERVER_SUBJECT:   Value: 
+Key: INSTANCE_ID:   Value: 
+Key: INSTANCE_META_PATH:   Value: 
+Key: LOCAL_ADDR:   Value: ::1
+Key: PATH_INFO:   Value: /favicon.ico
+Key: PATH_TRANSLATED:   Value: C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\favicon.ico
+Key: QUERY_STRING:   Value: 
+Key: REMOTE_ADDR:   Value: ::1
+Key: REMOTE_HOST:   Value: ::1
+Key: REMOTE_PORT:   Value: 
+Key: REQUEST_METHOD:   Value: GET
+Key: SCRIPT_NAME:   Value: /favicon.ico
+Key: SERVER_NAME:   Value: localhost
+Key: SERVER_PORT:   Value: 4644
+Key: SERVER_PORT_SECURE:   Value: 0
+Key: SERVER_PROTOCOL:   Value: HTTP/1.1
+Key: SERVER_SOFTWARE:   Value: 
+Key: URL:   Value: /favicon.ico
+Key: HTTP_CONNECTION:   Value: Keep-Alive
+Key: HTTP_ACCEPT:   Value: */*
+Key: HTTP_ACCEPT_ENCODING:   Value: gzip, deflate
+Key: HTTP_HOST:   Value: localhost:4644
+Key: HTTP_USER_AGENT:   Value: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+
+5/25/2012 2:37:58 PM : System.Web.HttpException (0x80004005): The file '/QuoteList.aspx' does not exist.
+   at System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   at System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   at System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   at System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.UI.PageHandlerFactory.System.Web.IHttpHandlerFactory2.GetHandler(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   at System.Web.HttpApplication.MapHttpHandler(HttpContext context, String requestType, VirtualPath path, String pathTranslated, Boolean useAppConfig)
+   at System.Web.HttpApplication.MapHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+
+General Information 
+*********************************************
+Additional Info:
+Key: ALL_HTTP:   Value: HTTP_CONNECTION:Keep-Alive
+HTTP_ACCEPT:text/html, application/xhtml+xml, */*
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_ACCEPT_LANGUAGE:en-US
+HTTP_COOKIE:ASP.NET_SessionId=a0lwjtwznklr2slhr3l1sayl; .ASPXAUTH=1330B22BC86EC2BEF81C8ACB12E673AEB324CBCB3F5980F6C986A9D5F93434DCEC69B953258B51064B1B6AAACD36D2143E12B42DECF0C726140CB38F5B66D51ED36D8DA4D73548A94D6E797B0E0BE6CAF0DBCAD3F36A929C2327225DC7F9840E8989846EE255145A6691DA91BF916D7610DADF41B5942DAF1ADD974575BC3A17E3561424855D9DEF3E63C9ED263F736E366E93C1CD07C237462ABD23DBDD957C
+HTTP_HOST:localhost:4644
+HTTP_REFERER:http://localhost:4644/Default.aspx
+HTTP_USER_AGENT:Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+Key: ALL_RAW:   Value: Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+Cookie: ASP.NET_SessionId=a0lwjtwznklr2slhr3l1sayl; .ASPXAUTH=1330B22BC86EC2BEF81C8ACB12E673AEB324CBCB3F5980F6C986A9D5F93434DCEC69B953258B51064B1B6AAACD36D2143E12B42DECF0C726140CB38F5B66D51ED36D8DA4D73548A94D6E797B0E0BE6CAF0DBCAD3F36A929C2327225DC7F9840E8989846EE255145A6691DA91BF916D7610DADF41B5942DAF1ADD974575BC3A17E3561424855D9DEF3E63C9ED263F736E366E93C1CD07C237462ABD23DBDD957C
+Host: localhost:4644
+Referer: http://localhost:4644/Default.aspx
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+Key: APPL_MD_PATH:   Value: 
+Key: APPL_PHYSICAL_PATH:   Value: C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\
+Key: AUTH_TYPE:   Value: Forms
+Key: AUTH_USER:   Value: akiander@hotmail.com
+Key: AUTH_PASSWORD:   Value: 
+Key: LOGON_USER:   Value: AJMachine\AaronAndJulie
+Key: REMOTE_USER:   Value: akiander@hotmail.com
+Key: CERT_COOKIE:   Value: 
+Key: CERT_FLAGS:   Value: 
+Key: CERT_ISSUER:   Value: 
+Key: CERT_KEYSIZE:   Value: 
+Key: CERT_SECRETKEYSIZE:   Value: 
+Key: CERT_SERIALNUMBER:   Value: 
+Key: CERT_SERVER_ISSUER:   Value: 
+Key: CERT_SERVER_SUBJECT:   Value: 
+Key: CERT_SUBJECT:   Value: 
+Key: CONTENT_LENGTH:   Value: 0
+Key: CONTENT_TYPE:   Value: 
+Key: GATEWAY_INTERFACE:   Value: 
+Key: HTTPS:   Value: 
+Key: HTTPS_KEYSIZE:   Value: 
+Key: HTTPS_SECRETKEYSIZE:   Value: 
+Key: HTTPS_SERVER_ISSUER:   Value: 
+Key: HTTPS_SERVER_SUBJECT:   Value: 
+Key: INSTANCE_ID:   Value: 
+Key: INSTANCE_META_PATH:   Value: 
+Key: LOCAL_ADDR:   Value: ::1
+Key: PATH_INFO:   Value: /QuoteList.aspx
+Key: PATH_TRANSLATED:   Value: C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberWeb\QuoteList.aspx
+Key: QUERY_STRING:   Value: 
+Key: REMOTE_ADDR:   Value: ::1
+Key: REMOTE_HOST:   Value: ::1
+Key: REMOTE_PORT:   Value: 
+Key: REQUEST_METHOD:   Value: GET
+Key: SCRIPT_NAME:   Value: /QuoteList.aspx
+Key: SERVER_NAME:   Value: localhost
+Key: SERVER_PORT:   Value: 4644
+Key: SERVER_PORT_SECURE:   Value: 0
+Key: SERVER_PROTOCOL:   Value: HTTP/1.1
+Key: SERVER_SOFTWARE:   Value: 
+Key: URL:   Value: /QuoteList.aspx
+Key: HTTP_CONNECTION:   Value: Keep-Alive
+Key: HTTP_ACCEPT:   Value: text/html, application/xhtml+xml, */*
+Key: HTTP_ACCEPT_ENCODING:   Value: gzip, deflate
+Key: HTTP_ACCEPT_LANGUAGE:   Value: en-US
+Key: HTTP_COOKIE:   Value: ASP.NET_SessionId=a0lwjtwznklr2slhr3l1sayl; .ASPXAUTH=1330B22BC86EC2BEF81C8ACB12E673AEB324CBCB3F5980F6C986A9D5F93434DCEC69B953258B51064B1B6AAACD36D2143E12B42DECF0C726140CB38F5B66D51ED36D8DA4D73548A94D6E797B0E0BE6CAF0DBCAD3F36A929C2327225DC7F9840E8989846EE255145A6691DA91BF916D7610DADF41B5942DAF1ADD974575BC3A17E3561424855D9DEF3E63C9ED263F736E366E93C1CD07C237462ABD23DBDD957C
+Key: HTTP_HOST:   Value: localhost:4644
+Key: HTTP_REFERER:   Value: http://localhost:4644/Default.aspx
+Key: HTTP_USER_AGENT:   Value: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)

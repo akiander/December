@@ -99,16 +99,16 @@
                 <AnonymousTemplate>
                     <a href="Login.aspx">Login</a> 
                     | <a href="Register.aspx">Register</a>                
+                    | <a href="Default.aspx">Site Home</a> 
+                    | <a href="Contact.aspx">Contact</a>
                 </AnonymousTemplate>
                 <LoggedInTemplate>
-                    <a href="Secure/Default.aspx">My Control Panel</a>
-                    | <a href="Secure/QuoteList.aspx">My Quotes</a> 
-                    | <a href="Secure/Categories.aspx">My Categories</a> 
+                    <a href="Default.aspx">My Control Panel</a>
+                    | <a href="QuoteList.aspx">My Quotes</a> 
+                    | <a href="Categories.aspx">My Categories</a> 
                     | <uc1:QuoteAddControl ID="QuoteAddControl1" runat="server" />
                 </LoggedInTemplate>
             </asp:LoginView>
-            | <a href="Default.aspx">Site Home</a> 
-            | <a href="Contact.aspx">Contact</a>
             
             <br />
             <br />

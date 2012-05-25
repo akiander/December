@@ -8,3 +8,13 @@ C:\Users\c23ak\December\DecemberData.Tests\bin\Debug\DecemberData_Accessor.pdb
 C:\Users\c23ak\December\DecemberData.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\c23ak\December\DecemberData.Tests\obj\Debug\DecemberData.Tests.dll
 C:\Users\c23ak\December\DecemberData.Tests\obj\Debug\DecemberData.Tests.pdb
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\obj\Debug\DecemberData.Tests.dll
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\obj\Debug\DecemberData.Tests.pdb
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\bin\Debug\DecemberData.Tests.dll.config
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\bin\Debug\DecemberData.Tests.dll
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\bin\Debug\DecemberData.Tests.pdb
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\bin\Debug\DecemberData.dll
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\bin\Debug\DecemberData.pdb
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\bin\Debug\DecemberData_Accessor.dll
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\bin\Debug\DecemberData_Accessor.pdb
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData.Tests\obj\Debug\ResolveAssemblyReference.cache

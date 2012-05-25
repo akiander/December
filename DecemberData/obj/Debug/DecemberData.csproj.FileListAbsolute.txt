@@ -1,0 +1,5 @@
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData\bin\Debug\DecemberData.dll
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData\bin\Debug\DecemberData.pdb
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData\obj\Debug\DecemberData.dll
+C:\Users\AaronAndJulie\Documents\GitHub\December\DecemberData\obj\Debug\DecemberData.pdb
