@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuoteList xmlns="http://kiander.com" QuoteListId="049cb89f-e358-497b-b3b1-78c1e690dd1b">
+  <QuoteRecord xmlns="">
+    <QuoteID>e57b13ff-8db1-4185-8d8b-f14bd637ad86</QuoteID>
+    <Quote>To be or not to be, that is the question.</Quote>
+    <Author>None</Author>
+    <Categories>
+      <Category>Action</Category>
+      <Category>Principle</Category>
+    </Categories>
+  </QuoteRecord>
+  <QuoteRecord xmlns="">
+    <QuoteID>6268193a-c7b6-456d-ac82-232d7ffca30b</QuoteID>
+    <Quote>To be or not to be, that is the question.</Quote>
+    <Author>None</Author>
+    <Categories>
+      <Category>Action</Category>
+      <Category>Principle</Category>
+    </Categories>
+  </QuoteRecord>
+</QuoteList>
