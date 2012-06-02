@@ -1,38 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <publishData>
-  <publishTarget publishUrl="C:\Temp\Dec\">
-    <file relUrl="App_Data/AjaxControlToolkit.dll" publishTime="01/15/2008 13:32:38" />
-    <file relUrl="bin/DecemberAccessProvider.pdb" publishTime="01/15/2008 13:32:38" />
-    <file relUrl="Secure/Default.aspx" publishTime="02/19/2008 15:28:22" />
-    <file relUrl="Controls/Login.ascx" publishTime="02/16/2008 23:08:13" />
-    <file relUrl="Data/errors.txt" publishTime="02/28/2008 16:28:11" />
-    <file relUrl="Controls/CategoryUpdateControl.ascx" publishTime="01/15/2008 13:30:58" />
-    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="01/15/2008 13:32:39" />
-    <file relUrl="Register.aspx" publishTime="02/19/2008 15:32:50" />
-    <file relUrl="App_Data/ASPNetDB.mdb" publishTime="02/28/2008 16:48:52" />
-    <file relUrl="Controls/QuoteAddControl.ascx" publishTime="02/18/2008 15:46:44" />
-    <file relUrl="App_Data/DecemberAccessProvider.pdb" publishTime="01/15/2008 13:32:38" />
-    <file relUrl="bin/DecemberData.dll" publishTime="01/19/2008 12:57:43" />
-    <file relUrl="bin/DecemberAccessProvider.dll" publishTime="01/15/2008 13:32:39" />
-    <file relUrl="Contact.aspx" publishTime="02/19/2008 15:30:59" />
-    <file relUrl="Secure/Web.config" publishTime="01/15/2008 13:30:52" />
-    <file relUrl="Secure/QuoteUpdate.aspx" publishTime="01/27/2008 22:37:26" />
-    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="01/15/2008 13:32:38" />
-    <file relUrl="style/December.css" publishTime="02/19/2008 16:36:58" />
-    <file relUrl="Controls/CategoryList.ascx" publishTime="02/17/2008 10:54:09" />
-    <file relUrl="Web.config" publishTime="02/16/2008 23:11:42" />
-    <file relUrl="Secure/Categories.aspx" publishTime="02/19/2008 15:29:16" />
-    <file relUrl="Login.aspx" publishTime="02/19/2008 15:32:50" />
-    <file relUrl="App_Data/AjaxControlToolkit.pdb" publishTime="01/15/2008 13:32:39" />
-    <file relUrl="Controls/QuoteList.ascx" publishTime="02/19/2008 15:44:34" />
-    <file relUrl="bin/DecemberWeb.dll" publishTime="02/28/2008 16:47:45" />
-    <file relUrl="Controls/RandomQuoteViewer.ascx" publishTime="02/19/2008 14:51:36" />
-    <file relUrl="bin/DecemberWeb.pdb" publishTime="02/28/2008 16:47:45" />
-    <file relUrl="App_Data/DecemberAccessProvider.dll" publishTime="01/15/2008 13:32:39" />
-    <file relUrl="bin/DecemberData.pdb" publishTime="01/19/2008 12:57:42" />
-    <file relUrl="Site.Master" publishTime="02/28/2008 16:50:07" />
-    <file relUrl="Secure/QuoteAdd.aspx" publishTime="02/17/2008 11:15:46" />
-    <file relUrl="Global.asax" publishTime="02/16/2008 14:09:36" />
-    <file relUrl="Secure/QuoteList.aspx" publishTime="01/30/2008 01:30:23" />
-    <file relUrl="Default.aspx" publishTime="02/28/2008 16:47:34" />
-  </publishTarget>
+  <publishProfile publishUrl="ftp://24.199.232.42/kiander/kiandercom/December" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Local" publishMethod="FTP" replaceMatchingFiles="True" userName="akiander" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Secure/QuoteUpdate.aspx" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="App_Data/DecemberAccessProvider.pdb" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="bin/DecemberWeb.pdb" publishTime="06/01/2012 23:35:28" />
+    <file relUrl="App_Data/DecemberAccessProvider.dll" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="Controls/CategoryList.ascx" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="Secure/QuoteList.aspx" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="Global.asax" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="Site.Master" publishTime="05/25/2012 14:49:35" />
+    <file relUrl="bin/DecemberWeb.dll" publishTime="06/01/2012 23:35:28" />
+    <file relUrl="Data/ed32da6e-da85-477e-9b21-ddf131a532e8.xml" publishTime="05/25/2012 22:38:37" />
+    <file relUrl="App_Data/AjaxControlToolkit.pdb" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="Data/errors.txt" publishTime="06/01/2012 23:34:18" />
+    <file relUrl="style/December.css" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="bin/DecemberData.pdb" publishTime="06/01/2012 23:35:28" />
+    <file relUrl="Controls/QuoteAddControl.ascx" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="App_Data/ASPNetDB.mdb" publishTime="06/01/2012 23:35:46" />
+    <file relUrl="Controls/Login.ascx" publishTime="06/01/2012 23:30:29" />
+    <file relUrl="bin/AjaxControlToolkit.pdb" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="Register.aspx" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="App_Data/AjaxControlToolkit.dll" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="Controls/QuoteList.ascx" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="bin/DecemberAccessProvider.pdb" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="Controls/RandomQuoteViewer.ascx" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="Default.aspx" publishTime="06/01/2012 23:33:20" />
+    <file relUrl="bin/DecemberAccessProvider.dll" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="Secure/Categories.aspx" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="Controls/CategoryUpdateControl.ascx" publishTime="05/25/2012 13:09:11" />
+    <file relUrl="Secure/Default.aspx" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="Login.aspx" publishTime="06/01/2012 23:35:22" />
+    <file relUrl="Web.config" publishTime="05/25/2012 13:58:29" />
+    <file relUrl="Secure/Web.config" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="Secure/QuoteAdd.aspx" publishTime="05/25/2012 13:09:12" />
+    <file relUrl="bin/DecemberData.dll" publishTime="06/01/2012 23:35:28" />
+    <file relUrl="Contact.aspx" publishTime="06/01/2012 22:05:23" />
+  </publishProfile>
 </publishData>

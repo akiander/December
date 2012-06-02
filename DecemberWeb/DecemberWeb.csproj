@@ -62,7 +62,10 @@
     </Content>
     <Content Include="App_Data\DecemberAccessProvider.dll" />
     <Content Include="App_Data\DecemberAccessProvider.pdb" />
-    <Content Include="Data\ed32da6e-da85-477e-9b21-ddf131a532e8.xml" />
+    <None Include="Data\5fecc88b-f100-480b-ada1-0c3994fcfa18.xml" />
+    <Content Include="Data\ed32da6e-da85-477e-9b21-ddf131a532e8.xml">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Default.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>

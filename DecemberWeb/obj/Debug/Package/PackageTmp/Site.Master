@@ -1,0 +1,119 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="DecemberWeb.Site" %>
+
+<%@ Register src="Controls/QuoteAddControl.ascx" tagname="QuoteAddControl" tagprefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>December Project</title>
+    <link href="style/December.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+    <span>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 100%">
+            <tr>
+                <td width="50%" >
+                   
+                    <asp:LoginView ID="LoginView3" runat="server">
+                        <AnonymousTemplate>
+                            <asp:Menu ID="AnonymousMenu" CssClass="menu" 
+                                DynamicMenuStyle-CssClass="menu" 
+                                DynamicHoverStyle-CssClass="menuHover" 
+                                runat="server" 
+                                Orientation="Horizontal" 
+                                StaticDisplayLevels="1">
+                              <Items>
+                                <asp:MenuItem Text="The December Project" Selectable="false" >
+                                  <asp:MenuItem Text="Home" NavigateUrl="Default.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="Login" NavigateUrl="Login.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="Register" NavigateUrl="Register.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="Contact" NavigateUrl="Contact.aspx"></asp:MenuItem>
+                                </asp:MenuItem>                        
+                              </Items>
+                            </asp:Menu>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <asp:Menu ID="LoggedInMenu" CssClass="menu" 
+                                DynamicMenuStyle-CssClass="menu" 
+                                DynamicHoverStyle-CssClass="menuHover" 
+                                runat="server" 
+                                Orientation="Horizontal" 
+                                StaticDisplayLevels="1">
+                              <Items>
+                                <asp:MenuItem Text="The December Project" Selectable="false">
+                                  <asp:MenuItem Text="My Control Panel" NavigateUrl="Secure/Default.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="My Quotes" NavigateUrl="Secure/QuoteList.aspx"></asp:MenuItem>
+                                  <asp:MenuItem Text="My Categories" NavigateUrl="Secure/Categories.aspx"></asp:MenuItem>
+                                </asp:MenuItem>                        
+                              </Items>
+                            </asp:Menu>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                   
+                </td>
+                <td width="50%" style="text-align: right;">
+                    <nobr>
+                    <asp:LoginView ID="LoginView1" runat="server">
+                        <AnonymousTemplate>
+                            Please log in for personalized information.
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <asp:LoginName ID="LoginName1" runat="server" FormatString=" Welcome, {0}" />
+                            .
+                        </LoggedInTemplate>
+                        <RoleGroups>
+                            <asp:RoleGroup Roles="Admin">
+                                <ContentTemplate>
+                                    <asp:LoginName ID="LoginName2" runat="Server"></asp:LoginName>
+                                    , you are logged in as an administrator.
+                                </ContentTemplate>
+                            </asp:RoleGroup>
+                        </RoleGroups>
+                    </asp:LoginView>
+                    <asp:LoginStatus ID="LoginStatus1" LoginText="Log In" LogoutAction="Refresh" LogoutText="Log Out"
+                        runat="server" />
+                    </nobr>
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+
+                    
+
+                </td>
+            </tr>
+        </table>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        
+        <br />
+        
+        <div style="color:Gray">
+            <asp:LoginView id="LoginView2" runat="server">
+                <AnonymousTemplate>
+                    <a href="Login.aspx">Login</a> 
+                    | <a href="Register.aspx">Register</a>                
+                    | <a href="Default.aspx">Site Home</a> 
+                    | <a href="Contact.aspx">Contact</a>
+                </AnonymousTemplate>
+                <LoggedInTemplate>
+                    <a href="Default.aspx">My Control Panel</a>
+                    | <a href="QuoteList.aspx">My Quotes</a> 
+                    | <a href="Categories.aspx">My Categories</a> 
+                    | <uc1:QuoteAddControl ID="QuoteAddControl1" runat="server" />
+                </LoggedInTemplate>
+            </asp:LoginView>
+            
+            <br />
+            <br />
+        </div>
+    </span>
+    </form>
+</body>
+</html>

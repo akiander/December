@@ -15,8 +15,14 @@ namespace DecemberWeb.Controls
 {
     public partial class Login : System.Web.UI.UserControl
     {
+        public string DestinationPageAddress { get; set; }
+
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(this.DestinationPageAddress))
+                throw new Exception("ERROR: The DestinationPageAddress is required for the Login.ascx control.");
+
+            myLogin.DestinationPageUrl = this.DestinationPageAddress;
             //Set focus on the first field
             myLogin.Focus();
 

@@ -1,0 +1,2 @@
+bin/  #ignore bin files
+obj/  #ignore obj files

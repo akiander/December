@@ -1,0 +1,72 @@
+[33mcommit d1ecf0d8e6953e647a9c463d691883fd67b57869[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Fri May 25 22:44:26 2012 -0400
+
+    Fixing master quote file
+
+[33mcommit 365e61def7dfc2b37082262f4ebb20805fc18130[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Fri May 25 15:24:36 2012 -0400
+
+    Removing unnecessary folder
+
+[33mcommit 09941fe59deff2d88088f50fe556c1e8c5c9239d[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Fri May 25 15:22:16 2012 -0400
+
+    Removing duplicate readme
+
+[33mcommit ca69bcc102eca2512c7524e16a0eb68357ff6e30[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Fri May 25 15:17:13 2012 -0400
+
+    Converted provider solution to VS 2010
+
+[33mcommit 2f75e91060e5d04688b33fff38ae7fc8f024bacf[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Fri May 25 15:02:51 2012 -0400
+
+    Converted to VS 2010 and fixed some links
+
+[33mcommit 83d8579418e4cec6ae750edb7c2add9d56d99891[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Thu May 17 00:42:11 2012 -0300
+
+    Update README
+
+[33mcommit 06684cf7f629fd3ab0b1cdfc491f8fe53b0b5150[m
+Merge: d5bf8a9 1cddeea
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Wed May 16 23:22:47 2012 -0400
+
+    Merge branch 'master' of github.com:akiander/December
+
+[33mcommit d5bf8a995fca768fbde5aec7b97101fa7d985184[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Wed May 16 23:09:12 2012 -0400
+
+    adding most of the website content
+
+[33mcommit 8ca5e4462d364fd3acdba90c5f7bffd4503c7576[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Wed May 16 17:17:42 2012 -0400
+
+    adding all files
+
+[33mcommit ab2eeaebc7f77ddfdde33669abbc0eda27008270[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Wed May 16 17:07:07 2012 -0400
+
+    all files
+
+[33mcommit f054fcadab69a00b784830649ec4a271919dbdb5[m
+Author: Aaron Kiander <akiander@gmail.com>
+Date:   Wed May 16 17:06:02 2012 -0400
+
+    first commit
+
+[33mcommit 1cddeea6d2214c48d5a9c999839c16f679a79211[m
+Author: akiander <akiander@gmail.com>
+Date:   Wed May 16 14:01:51 2012 -0700
+
+    initial commit
